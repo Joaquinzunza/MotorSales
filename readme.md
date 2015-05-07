@@ -1,12 +1,13 @@
 ## Proyecto en framework Laravel PHP 
-##Materia: Ing Web
-##Integrantes:
-Inzunza Padilla Joaquin Delberto.
-Rodriguez Lara Angel Aalonso.
-Valenzuela Silva Felipe Antonio.
-Ochoa Aldana Roberto.
-Portugal Vega Pedro.
-Ovalles Delgado Ricardo.
+## Materia: Ing Web
+## Integrantes:
+
+#### Inzunza Padilla Joaquin Delberto.
+#### Rodriguez Lara Angel Aalonso.
+#### Valenzuela Silva Felipe Antonio.
+#### Ochoa Aldana Roberto.
+#### Portugal Vega Pedro.
+#### Ovalles Delgado Ricardo.
 
 ## Documentacion Oficial
 
